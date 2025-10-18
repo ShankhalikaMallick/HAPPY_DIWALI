@@ -29,9 +29,3 @@
 | 💫 3 |  on | on | off | off | on | on | off | off |  on  | on | Flashing pairs for rhythm effect 
 
 ## 💥 RUN THE CODE AT [HAPPY DIWALI](https://www.edaplayground.com/x/msK8) 💥
-
-```text
-pattern1 = on on on on on on on on on 
-pattern2 = on off on off on off on off  
-pattern3 = on on off off on on off off
-```

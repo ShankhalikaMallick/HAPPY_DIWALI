@@ -12,7 +12,7 @@
 <h1 p align="center">
   
    ```diff
-+ ✨ SIMULATE A STRING OF FAIRY LIGHTS IN DIFFERENT PATTERNS ✨ +
++ ✨ SIMULATE A STRING OF FAIRY LIGHTS IN DIFFERENT PATTERNS ✨
   ```
    </p> 
   

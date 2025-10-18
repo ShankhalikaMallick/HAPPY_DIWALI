@@ -28,5 +28,12 @@
 | 💫 1 | on | on | on | on | on | on | on | on | on |  on | All LEDs blink together   
 | 💫 2 | on | off | on | off | on | off | on | off |  on  | off | Alternating LEDs dance in sequence
 | 💫 3 |  on | on | off | off | on | on | off | off |  on  | on | Flashing pairs for rhythm effect 
-
+----
 <h3 p align="center"> 💥 LET THE FESTIVITIES BEGIN 💥 RUN THE CODE AT <a href="https://www.edaplayground.com/x/msK8" target="_blank"> HAPPY DIWALI! </a>💥 </h3>
+
+<p> <img src="https://cdn.pixabay.com/animation/2023/08/29/02/43/02-43-52-729_512.gif" width="330px" height="150px"> 
+  <img src="https://cdn.pixabay.com/animation/2023/08/29/02/43/02-43-52-729_512.gif" width="330px" height="150px"> 
+  <img src="https://cdn.pixabay.com/animation/2023/08/29/02/43/02-43-52-729_512.gif" width="330px" height="150px"> 
+   <style="object-fit: cover; border-radius: 12px;"
+</p>
+

@@ -1,14 +1,13 @@
-# HAPPY_DIWALI
-
 <h1 align="center">✨🪔 Happy Diwali 2025 🪔✨</h1>
-
+<h2 align="center">🎆 Let light triumph over darkness. Code. Create. Celebrate. 🎇</h2>
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ5b3Ftd3loZDVqc2RuZXMwb3liY2d2dTlyY2pjd2ZwNzNkZ2t1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOkpZkWQJnK187Ngpi/giphy.gif" width="100%">
 </p>
-
-<h2 align="center">🎆 Code • Celebrate • Create 🎆</h2>
-
-<h3 align="center">🎆 Let light triumph over darkness. Code. Create. Celebrate. 🎇</h3>
+<p>
+  <img src="https://cdn.pixabay.com/animation/2024/12/20/20/11/20-11-39-908_512.gif" width="330px"> 
+  <img src="https://cdn.pixabay.com/animation/2024/12/20/20/11/20-11-39-908_512.gif" width="330px"> 
+  <img src="https://cdn.pixabay.com/animation/2024/12/20/20/11/20-11-39-908_512.gif" width="330px"> 
+</p>
 
 ---
 

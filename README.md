@@ -5,6 +5,7 @@
 + ✨ Code. Create. Celebrate. ✨ +
 ```
 </h2>
+
 <p> <img src="https://bestanimations.com/media/fireworks/1890106719ba-red-3-shells-fireworks-animated-gif-pic.gif.pagespeed.ce.5ssxWrlRol.gif" width="330px"> 
   <img src="https://bestanimations.com/media/fireworks/1890106719ba-red-3-shells-fireworks-animated-gif-pic.gif.pagespeed.ce.5ssxWrlRol.gif" width="330px"> 
   <img src="https://bestanimations.com/media/fireworks/1890106719ba-red-3-shells-fireworks-animated-gif-pic.gif.pagespeed.ce.5ssxWrlRol.gif" width="330px"> 

@@ -2,7 +2,7 @@
 <h2 align="center">
   
 ```diff 
-+ ✨ Let light triumph over darkness. Code. Create. Celebrate. ✨
++ ✨ Code. Create. Celebrate. ✨ +
 ```
 </h2>
 <p> <img src="https://bestanimations.com/media/fireworks/1890106719ba-red-3-shells-fireworks-animated-gif-pic.gif.pagespeed.ce.5ssxWrlRol.gif" width="330px"> 
@@ -11,7 +11,7 @@
    <style="object-fit: cover; border-radius: 12px;"
 </p>
 
-<p align="center"> ✨<em> This repo glows with the spirit of Diwali — a time for innovation, light, and endless creativity. </em>✨</p>
+<h4 p align="center"> ✨<em> This repo glows with the spirit of Diwali — a time for innovation, light, and endless creativity. </em>✨</p>
 <h2 p align="center"> Simulate a chain of LED lights using a Finite State Machine (FSM) ! </p>
 <h2 align="center">
 
@@ -28,4 +28,4 @@
 | 💫 2 | on | off | on | off | on | off | on | off |  on  | off | Alternating LEDs dance in sequence
 | 💫 3 |  on | on | off | off | on | on | off | off |  on  | on | Flashing pairs for rhythm effect 
 
-## 💥 RUN THE CODE AT [HAPPY DIWALI](https://www.edaplayground.com/x/msK8) 💥
+<h3 p align="center"> 💥 LET THE FESTIVITIES BEGIN 💥 RUN THE CODE AT <a href="https://www.edaplayground.com/x/msK8" target="_blank"> HAPPY DIWALI! </a>💥 </h3>

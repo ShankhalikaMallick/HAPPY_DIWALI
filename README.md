@@ -2,7 +2,7 @@
 <h2 align="center">
   
 ```diff 
-+ ✨ Code. Create. Celebrate. ✨ +
+✨ Code. Create. Celebrate. ✨ 
 ```
 </h2>
 
@@ -17,7 +17,7 @@
 <h2 align="center">
 
 ```diff
-- 💥 Celebrate Diwali with digital sparkle! 💥
+ 💥 Celebrate Diwali with digital sparkle! 💥
 ```
 <h3 p align="center">
 <i> This Verilog project brings <b> Diwali lights to your simulation </b>. </i> </p>

@@ -1,36 +1,32 @@
 <h1 align="center">✨🪔 Happy Diwali 2025 🪔✨</h1>
 <h2 align="center">🎆 Let light triumph over darkness. Code. Create. Celebrate. 🎇</h2>
+<p> <img src="https://bestanimations.com/media/fireworks/1890106719ba-red-3-shells-fireworks-animated-gif-pic.gif.pagespeed.ce.5ssxWrlRol.gif" width="330px"> 
+  <img src="https://bestanimations.com/media/fireworks/1890106719ba-red-3-shells-fireworks-animated-gif-pic.gif.pagespeed.ce.5ssxWrlRol.gif" width="330px"> 
+  <img src="https://bestanimations.com/media/fireworks/1890106719ba-red-3-shells-fireworks-animated-gif-pic.gif.pagespeed.ce.5ssxWrlRol.gif" width="330px"> 
+   <style="object-fit: cover; border-radius: 12px;"
+</p>
+
+### 🌟 This repo glows with the spirit of Diwali — a time for innovation, light, and endless creativity. ✨
+
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ5b3Ftd3loZDVqc2RuZXMwb3liY2d2dTlyY2pjd2ZwNzNkZ2t1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOkpZkWQJnK187Ngpi/giphy.gif" width="100%">
-</p>
-<p>
-  <img src="https://cdn.pixabay.com/animation/2024/12/20/20/11/20-11-39-908_512.gif" width="330px"> 
-  <img src="https://cdn.pixabay.com/animation/2024/12/20/20/11/20-11-39-908_512.gif" width="330px"> 
-  <img src="https://cdn.pixabay.com/animation/2024/12/20/20/11/20-11-39-908_512.gif" width="330px"> 
-</p>
+💥 Celebrate Diwali with digital sparkle! 💥 
+  <p align="center">
+  Simulate a chain of LED lights using a _Finite State Machine (FSM)_ — code meets festival vibes! </p>
+
 
 ---
 
-### 🌟 About This Repository
-This repo glows with the spirit of Diwali — a time for innovation, light, and endless creativity.  
-Let's spread knowledge and positivity through every commit! ✨
+## 🎉 About the Project
+This Verilog project brings **Diwali lights to your simulation**.  
+It cycles through **three glowing patterns**, capturing the festive spirit in logic design:
 
----
+| Pattern | Description |
+|---------|-------------|
+| 💫 Pattern 1 | All LEDs blink together |
+| 🎇 Pattern 2 | Alternating LEDs dance in sequence |
+| 🎆 Pattern 3 | Flashing pairs for rhythm effect |
 
-### 💥 Festive Vibes
-- 🪔 Light up your projects with new ideas  
-- 🎨 Paint your README with creativity  
-- 🌈 Spread joy in your developer community  
-- 💻 Code with kindness and clarity  
-
----
-
-### 🧨 Let's Connect
-<p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Connect-orange?style=for-the-badge&logo=linkedin"></a>
-</p>
-
----
-<p align="center"> <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="250px"> </p>
-<p align="center"> <img src="https://tenor.com/bWYMO.gif" width="250px"> </p>
+```text
+pattern1 = on on on on on on on on  
+pattern2 = on off on off on off on off  
+pattern3 = on on off off on on off off

@@ -9,7 +9,12 @@
 
 <h4 p align="center"> ✨<em> This repo glows with the spirit of Diwali — a time for innovation, light, and endless creativity. </em>✨</p>
 <h2 p align="center"> Simulate a chain of LED lights using a Finite State Machine (FSM) ! </p>
-<h2 align="center"> 💥 Celebrate Diwali with digital sparkle! 💥</h2>
+<h2 align="center"> 
+  
+  ```diff
+  💥 Celebrate Diwali with digital sparkle! 💥
+  ```
+</h2>
 <h3 p align="center">
 <i> This Verilog project brings <b> Diwali lights to your simulation </b>. </i> </p>
   

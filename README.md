@@ -19,8 +19,8 @@
 <h3 p align="center"> Celebrate Diwali with a Digital Sparkle! </p> </h3>
 
 <h4 p align="center">
-<div> This Verilog project brings <b> Diwali lights to your simulation.   </b> </div>
-<div> It cycles through <i> three glowing patterns </i> capturing the festive spirit in logic design: </div> </h4>
+ This Verilog project brings <b> Diwali lights to your simulation.   </b> </h4>
+<p align="center"> It cycles through <i> three glowing patterns </i> capturing the festive spirit in logic design: </p>
 
 | Pattern | LED1 | LED2 | LED3 | LED4 | LED5 | LED6 | LED7 | LED8 | LED9 | LED10 | Format |
 |---------|------|------|------|------|-----|-------|------|------|------|------ |-----------------------|

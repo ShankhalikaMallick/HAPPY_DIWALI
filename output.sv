@@ -1,4 +1,4 @@
-[2025-10-18 03:40:19 UTC] vlib work && vlog '-timescale' '1ns/1ns' design.sv testbench.sv  && vsim -c -do "vsim +access+r; run -all; exit"  
+[2025-10-18 04:04:03 UTC] vlib work && vlog '-timescale' '1ns/1ns' design.sv testbench.sv  && vsim -c -do "vsim +access+r; run -all; exit"  
 VSIMSA: Configuration file changed: `/home/runner/library.cfg'
 ALIB: Library "work" attached.
 work = /home/runner/work/work.lib
@@ -38,25 +38,25 @@ done
 # KERNEL:                    0	0 0 0 0 0 0 0 0 0 0
 # KERNEL: -----------------pattern1----------------------------------------------------------
 # KERNEL:                    5	0 0 0 0 0 0 0 0 0 0
-# KERNEL:                    7	1 1 1 1 1 1 1 1 1 1
+# KERNEL:                    6	1 1 1 1 1 1 1 1 1 1
 # KERNEL:                    7	0 0 0 0 0 0 0 0 0 0
-# KERNEL:                    9	1 1 1 1 1 1 1 1 1 1
+# KERNEL:                    8	1 1 1 1 1 1 1 1 1 1
 # KERNEL:                    9	0 0 0 0 0 0 0 0 0 0
-# KERNEL:                   11	1 1 1 1 1 1 1 1 1 1
+# KERNEL:                   10	1 1 1 1 1 1 1 1 1 1
 # KERNEL:                   11	0 0 0 0 0 0 0 0 0 0
-# KERNEL:                   13	1 1 1 1 1 1 1 1 1 1
+# KERNEL:                   12	1 1 1 1 1 1 1 1 1 1
 # KERNEL:                   13	0 0 0 0 0 0 0 0 0 0
-# KERNEL:                   15	1 1 1 1 1 1 1 1 1 1
+# KERNEL:                   14	1 1 1 1 1 1 1 1 1 1
 # KERNEL:                   15	0 0 0 0 0 0 0 0 0 0
-# KERNEL:                   17	1 1 1 1 1 1 1 1 1 1
+# KERNEL:                   16	1 1 1 1 1 1 1 1 1 1
 # KERNEL:                   17	0 0 0 0 0 0 0 0 0 0
-# KERNEL:                   19	1 1 1 1 1 1 1 1 1 1
+# KERNEL:                   18	1 1 1 1 1 1 1 1 1 1
 # KERNEL:                   19	0 0 0 0 0 0 0 0 0 0
-# KERNEL:                   21	1 1 1 1 1 1 1 1 1 1
+# KERNEL:                   20	1 1 1 1 1 1 1 1 1 1
 # KERNEL:                   21	0 0 0 0 0 0 0 0 0 0
-# KERNEL:                   23	1 1 1 1 1 1 1 1 1 1
+# KERNEL:                   22	1 1 1 1 1 1 1 1 1 1
 # KERNEL:                   23	0 0 0 0 0 0 0 0 0 0
-# KERNEL:                   25	1 1 1 1 1 1 1 1 1 1
+# KERNEL:                   24	1 1 1 1 1 1 1 1 1 1
 # KERNEL: -----------------pattern2----------------------------------------------------------
 # KERNEL:                   45	1 0 1 0 1 0 1 0 1 0
 # KERNEL:                   46	0 1 0 1 0 1 0 1 0 1
@@ -106,5 +106,5 @@ done
 # VSIM: Simulation has finished.
 Finding VCD file...
 ./lights.vcd
-[2025-10-18 03:40:22 UTC] Opening EPWave...
+[2025-10-18 04:04:06 UTC] Opening EPWave...
 Done

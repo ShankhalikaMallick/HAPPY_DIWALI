@@ -1,20 +1,22 @@
 <h1 align="center">✨🪔 Happy Diwali 2025 🪔✨</h1>
-<h2 align="center">🎆 Let light triumph over darkness. Code. Create. Celebrate. 🎇</h2>
+<h2 align="center">
+  
+```diff 
++ ✨ Let light triumph over darkness. Code. Create. Celebrate. ✨
+```
+</h2>
 <p> <img src="https://bestanimations.com/media/fireworks/1890106719ba-red-3-shells-fireworks-animated-gif-pic.gif.pagespeed.ce.5ssxWrlRol.gif" width="330px"> 
   <img src="https://bestanimations.com/media/fireworks/1890106719ba-red-3-shells-fireworks-animated-gif-pic.gif.pagespeed.ce.5ssxWrlRol.gif" width="330px"> 
   <img src="https://bestanimations.com/media/fireworks/1890106719ba-red-3-shells-fireworks-animated-gif-pic.gif.pagespeed.ce.5ssxWrlRol.gif" width="330px"> 
    <style="object-fit: cover; border-radius: 12px;"
 </p>
 
-### 🌟 This repo glows with the spirit of Diwali — a time for innovation, light, and endless creativity. ✨
-
-<p align="center">
-💥 Celebrate Diwali with digital sparkle! 💥 
-  <p align="center">
-  Simulate a chain of LED lights using a _Finite State Machine (FSM)_ — code meets festival vibes! </p>
-
-
----
+<p align="center"> 🌟 This repo glows with the spirit of Diwali — a time for innovation, light, and endless creativity. ✨</p>
+<h2 p align="center"> Simulate a chain of LED lights using a Finite State Machine (FSM) ! </p>
+ 
+```diff
+- 💥 Celebrate Diwali with digital sparkle! 💥
+```
 
 ## 🎉 About the Project
 This Verilog project brings **Diwali lights to your simulation**.  

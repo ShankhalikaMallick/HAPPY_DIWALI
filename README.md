@@ -9,7 +9,7 @@
      
 <h4 p align="center"> ✨<em> This repo glows with the spirit of Diwali — a time for innovation, light, and endless creativity. </em>✨  </p> </h4>
 
-<h2 p align="center">
+<h1 p align="center">
   
    ```diff
 + ✨ SIMULATE A STRING OF FAIRY LIGHTS IN DIFFERENT PATTERNS ✨ +

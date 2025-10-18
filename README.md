@@ -9,13 +9,10 @@
 
 <h4 p align="center"> ✨<em> This repo glows with the spirit of Diwali — a time for innovation, light, and endless creativity. </em>✨</p>
 <h2 p align="center"> Simulate a chain of LED lights using a Finite State Machine (FSM) ! </p>
-<h2 align="center">
-
-```diff
- 💥 Celebrate Diwali with digital sparkle! 💥
-```
+<h2 align="center"> 💥 Celebrate Diwali with digital sparkle! 💥</h2>
 <h3 p align="center">
 <i> This Verilog project brings <b> Diwali lights to your simulation </b>. </i> </p>
+  
 <h4 p align="center"> It cycles through <i> three glowing patterns </i> capturing the festive spirit in logic design: </p>
 
 | Pattern | LED1 | LED2 | LED3 | LED4 | LED5 | LED6 | LED7 | LED8 | LED9 | LED10 | Format |
